@@ -30,7 +30,3 @@ This project helps users organize tasks efficiently while showcasing core front-
 - **CSS3** – Styling and layout
 - **JavaScript (Vanilla JS)** – App logic and interactivity
 
----
-
-## 📂 Project Structure
-
